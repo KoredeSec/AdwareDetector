@@ -42,7 +42,7 @@ The model used is a **binary classifier** trained to differentiate between clean
 - Background services
 - And more...
 
-The model was trained offline using Python (LightGBM) and converted to ONNX for Android integration.
+The model was trained online using Google Colab and converted to ONNX for Android integration.
 
 ---
 
